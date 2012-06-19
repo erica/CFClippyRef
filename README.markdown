@@ -16,7 +16,7 @@ My extensions include a tile helper class (TileHelper) that extracts individual 
 **Create a helper**
 + (id) helper;
 
-** Create a properly-sized Clippy-ready image view ** 
+**Create a properly-sized Clippy-ready image view** 
 - (UIImageView *) baseImageView;
 
 **List all animations available**
