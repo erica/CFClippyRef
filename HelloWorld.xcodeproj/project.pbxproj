@@ -7,25 +7,52 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E80DE3515904B6E008DF180 /* clippymap.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E80DE3415904B6E008DF180 /* clippymap.png */; };
+		8E80DE431590BB87008DF180 /* TileHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E80DE421590BB87008DF180 /* TileHelper.m */; };
+		8E80DE461590CC2C008DF180 /* ClippyHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E80DE451590CC2C008DF180 /* ClippyHelper.m */; };
+		8E80DEC61590D4EC008DF180 /* animjson.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8E80DEC51590D4EC008DF180 /* animjson.txt */; };
+		8EB9BF0E158B9B4800F96828 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF0D158B9B4800F96828 /* Icon.png */; };
+		8EB9BF19158B9B7900F96828 /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF10158B9B7900F96828 /* Default-Landscape@2x~ipad.png */; };
+		8EB9BF1A158B9B7900F96828 /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF11158B9B7900F96828 /* Default-Landscape~ipad.png */; };
+		8EB9BF1B158B9B7900F96828 /* Default-Portrait@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF12158B9B7900F96828 /* Default-Portrait@2x~ipad.png */; };
+		8EB9BF1C158B9B7900F96828 /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF13158B9B7900F96828 /* Default-Portrait~ipad.png */; };
+		8EB9BF1D158B9B7900F96828 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF14158B9B7900F96828 /* Default.png */; };
+		8EB9BF1E158B9B7900F96828 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF15158B9B7900F96828 /* Default@2x.png */; };
+		8EB9BF1F158B9B7900F96828 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF16158B9B7900F96828 /* Icon@2x.png */; };
+		8EB9BF20158B9B7900F96828 /* Icon~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF17158B9B7900F96828 /* Icon~ipad.png */; };
+		8EB9BF21158B9B7900F96828 /* Icon~ipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB9BF18158B9B7900F96828 /* Icon~ipad@2x.png */; };
 		8EF624E115892BA600A81FD2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF624E015892BA600A81FD2 /* UIKit.framework */; };
 		8EF624E315892BA600A81FD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF624E215892BA600A81FD2 /* Foundation.framework */; };
 		8EF624E515892BA600A81FD2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF624E415892BA600A81FD2 /* CoreGraphics.framework */; };
 		8EF624EB15892BA600A81FD2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8EF624E915892BA600A81FD2 /* InfoPlist.strings */; };
 		8EF624ED15892BA600A81FD2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EF624EC15892BA600A81FD2 /* main.m */; };
-		8EF624F115892BA600A81FD2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EF624F015892BA600A81FD2 /* AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8E80DE3415904B6E008DF180 /* clippymap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = clippymap.png; path = HelloWorld/clippymap.png; sourceTree = "<group>"; };
+		8E80DE411590BB87008DF180 /* TileHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileHelper.h; sourceTree = "<group>"; };
+		8E80DE421590BB87008DF180 /* TileHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileHelper.m; sourceTree = "<group>"; };
+		8E80DE441590CC2C008DF180 /* ClippyHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClippyHelper.h; sourceTree = "<group>"; };
+		8E80DE451590CC2C008DF180 /* ClippyHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClippyHelper.m; sourceTree = "<group>"; };
+		8E80DEC51590D4EC008DF180 /* animjson.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = animjson.txt; sourceTree = "<group>"; };
+		8EB9BF0D158B9B4800F96828 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = AppArt/Icon.png; sourceTree = "<group>"; };
+		8EB9BF10158B9B7900F96828 /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape@2x~ipad.png"; path = "AppArt/Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
+		8EB9BF11158B9B7900F96828 /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape~ipad.png"; path = "AppArt/Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		8EB9BF12158B9B7900F96828 /* Default-Portrait@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait@2x~ipad.png"; path = "AppArt/Default-Portrait@2x~ipad.png"; sourceTree = "<group>"; };
+		8EB9BF13158B9B7900F96828 /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait~ipad.png"; path = "AppArt/Default-Portrait~ipad.png"; sourceTree = "<group>"; };
+		8EB9BF14158B9B7900F96828 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = AppArt/Default.png; sourceTree = "<group>"; };
+		8EB9BF15158B9B7900F96828 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "AppArt/Default@2x.png"; sourceTree = "<group>"; };
+		8EB9BF16158B9B7900F96828 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "AppArt/Icon@2x.png"; sourceTree = "<group>"; };
+		8EB9BF17158B9B7900F96828 /* Icon~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon~ipad.png"; path = "AppArt/Icon~ipad.png"; sourceTree = "<group>"; };
+		8EB9BF18158B9B7900F96828 /* Icon~ipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon~ipad@2x.png"; path = "AppArt/Icon~ipad@2x.png"; sourceTree = "<group>"; };
 		8EF624DC15892BA600A81FD2 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EF624E015892BA600A81FD2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8EF624E215892BA600A81FD2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8EF624E415892BA600A81FD2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		8EF624E815892BA600A81FD2 /* HelloWorld-Info.plist */ = {isa = PBXFileReference; path = "HelloWorld-Info.plist"; sourceTree = "<group>"; };
+		8EF624E815892BA600A81FD2 /* HelloWorld-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorld-Info.plist"; sourceTree = "<group>"; };
 		8EF624EA15892BA600A81FD2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		8EF624EC15892BA600A81FD2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8EF624EE15892BA600A81FD2 /* HelloWorld-Prefix.pch */ = {isa = PBXFileReference; path = "HelloWorld-Prefix.pch"; sourceTree = "<group>"; };
-		8EF624EF15892BA600A81FD2 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
-		8EF624F015892BA600A81FD2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8EF624EC15892BA600A81FD2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = HelloWorld/main.m; sourceTree = "<group>"; };
+		8EF624EE15892BA600A81FD2 /* HelloWorld-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorld-Prefix.pch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,7 +72,13 @@
 		8EF624D115892BA600A81FD2 = {
 			isa = PBXGroup;
 			children = (
-				8EF624E615892BA600A81FD2 /* HelloWorld */,
+				8EF624EC15892BA600A81FD2 /* main.m */,
+				8E80DE441590CC2C008DF180 /* ClippyHelper.h */,
+				8E80DE451590CC2C008DF180 /* ClippyHelper.m */,
+				8E80DE411590BB87008DF180 /* TileHelper.h */,
+				8E80DE421590BB87008DF180 /* TileHelper.m */,
+				8EFD1B7F1590D75C000C8ED0 /* Clippy Resources */,
+				8EF624E715892BA600A81FD2 /* Supporting Files */,
 				8EF624DF15892BA600A81FD2 /* Frameworks */,
 				8EF624DD15892BA600A81FD2 /* Products */,
 			);
@@ -69,25 +102,43 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		8EF624E615892BA600A81FD2 /* HelloWorld */ = {
-			isa = PBXGroup;
-			children = (
-				8EF624EF15892BA600A81FD2 /* AppDelegate.h */,
-				8EF624F015892BA600A81FD2 /* AppDelegate.m */,
-				8EF624E715892BA600A81FD2 /* Supporting Files */,
-			);
-			path = HelloWorld;
-			sourceTree = "<group>";
-		};
 		8EF624E715892BA600A81FD2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8EF6250B15892CDA00A81FD2 /* System Art */,
 				8EF624E815892BA600A81FD2 /* HelloWorld-Info.plist */,
 				8EF624E915892BA600A81FD2 /* InfoPlist.strings */,
-				8EF624EC15892BA600A81FD2 /* main.m */,
 				8EF624EE15892BA600A81FD2 /* HelloWorld-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			path = HelloWorld;
+			sourceTree = "<group>";
+		};
+		8EF6250B15892CDA00A81FD2 /* System Art */ = {
+			isa = PBXGroup;
+			children = (
+				8EB9BF0D158B9B4800F96828 /* Icon.png */,
+				8EB9BF10158B9B7900F96828 /* Default-Landscape@2x~ipad.png */,
+				8EB9BF11158B9B7900F96828 /* Default-Landscape~ipad.png */,
+				8EB9BF12158B9B7900F96828 /* Default-Portrait@2x~ipad.png */,
+				8EB9BF13158B9B7900F96828 /* Default-Portrait~ipad.png */,
+				8EB9BF14158B9B7900F96828 /* Default.png */,
+				8EB9BF15158B9B7900F96828 /* Default@2x.png */,
+				8EB9BF16158B9B7900F96828 /* Icon@2x.png */,
+				8EB9BF17158B9B7900F96828 /* Icon~ipad.png */,
+				8EB9BF18158B9B7900F96828 /* Icon~ipad@2x.png */,
+			);
+			name = "System Art";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		8EFD1B7F1590D75C000C8ED0 /* Clippy Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8E80DEC51590D4EC008DF180 /* animjson.txt */,
+				8E80DE3415904B6E008DF180 /* clippymap.png */,
+			);
+			name = "Clippy Resources";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,6 +193,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EF624EB15892BA600A81FD2 /* InfoPlist.strings in Resources */,
+				8EB9BF0E158B9B4800F96828 /* Icon.png in Resources */,
+				8EB9BF19158B9B7900F96828 /* Default-Landscape@2x~ipad.png in Resources */,
+				8EB9BF1A158B9B7900F96828 /* Default-Landscape~ipad.png in Resources */,
+				8EB9BF1B158B9B7900F96828 /* Default-Portrait@2x~ipad.png in Resources */,
+				8EB9BF1C158B9B7900F96828 /* Default-Portrait~ipad.png in Resources */,
+				8EB9BF1D158B9B7900F96828 /* Default.png in Resources */,
+				8EB9BF1E158B9B7900F96828 /* Default@2x.png in Resources */,
+				8EB9BF1F158B9B7900F96828 /* Icon@2x.png in Resources */,
+				8EB9BF20158B9B7900F96828 /* Icon~ipad.png in Resources */,
+				8EB9BF21158B9B7900F96828 /* Icon~ipad@2x.png in Resources */,
+				8E80DE3515904B6E008DF180 /* clippymap.png in Resources */,
+				8E80DEC61590D4EC008DF180 /* animjson.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,7 +216,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EF624ED15892BA600A81FD2 /* main.m in Sources */,
-				8EF624F115892BA600A81FD2 /* AppDelegate.m in Sources */,
+				8E80DE431590BB87008DF180 /* TileHelper.m in Sources */,
+				8E80DE461590CC2C008DF180 /* ClippyHelper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,6 +288,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -235,6 +300,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -259,6 +325,7 @@
 				8EF624F615892BA600A81FD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
